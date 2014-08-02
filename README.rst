@@ -1,4 +1,4 @@
 SmartAnthill Dashboard
 ======================
 
-Dashboard (GUI) for `SmartAnthill Project <https://github.com/ivankravets/smartanthill>`_
+Web front-end for `SmartAnthill System <https://github.com/ivankravets/smartanthill>`_.
